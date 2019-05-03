@@ -2,5 +2,4 @@
 Repositorio
 Helloooo
 
-Im Paula and i still made this because i wanna study something like that
-goodbye.
+.NET Core is a cross-platform version of .NET for building websites, services, and console apps.
